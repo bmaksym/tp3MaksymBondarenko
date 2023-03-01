@@ -1,0 +1,113 @@
+.header{
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    background-image: url('cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0px;
+    box-shadow: 0px 0px 15px #333;
+    border-bottom: 2px solid white;
+}
+.imgprofile{
+    height: 150px;
+    width: 150px;
+    border: 3px solid white;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px #777;
+}
+.center{
+    display: block;
+    width: 100%; 
+    position: absolute;
+    text-align: center;
+
+}
+.block{
+    display: block;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 0px 10px #bbb;
+}
+.block1{
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.sociaux{
+    width: 20px;
+    height: 20px;
+}
+.progressbar{
+    height: 10px;
+    border-radius: 5px;
+    background: gray;
+    border-bottom: 1px ridge grey;
+}
+.progressbar1{  
+    border-radius: 5px;
+    height: 10px;
+    width: 100%;
+    background: green;
+}
+.progressbar2{  
+    border-radius: 5px;
+    height: 10px;
+    width: 95%;
+    background: green;
+}
+.progressbar3{  
+    border-radius: 5px;
+    height: 10px;
+    width: 90%;
+    background: green;
+}
+.progressbar4{  
+    border-radius: 5px;
+    height: 10px;
+    width: 100%;
+    background: green;
+}
+.progressbar5{  
+    border-radius: 5px;
+    height: 10px;
+    width: 90%;
+    background: green;
+}
+.progressbar6{  
+    border-radius: 5px;
+    height: 10px;
+    width: 85%;
+    background: green;
+}
+.progressbar7{  
+    border-radius: 5px;
+    height: 10px;
+    width: 95%;
+    background: green;
+}
+.progressbar8{  
+    border-radius: 5px;
+    height: 10px;
+    width: 95%;
+    background: green;
+}
+footer{
+    background-image: url('cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    box-shadow: 0px 0px 15px #333;
+    border-top: 2px solid white;
+    margin-top: 5px;
+}
+.footer{
+    display: block;
+    width: 90%;
+    color: white;
+    text-align: center;
+}
+.link{
+    color: white;
+}
