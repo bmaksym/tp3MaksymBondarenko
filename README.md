@@ -1,6 +1,6 @@
 # Travail Pratique 3 #
 
-# **Réalisé par Maksym Bondarenko** #
+# ** Réalisé par Maksym Bondarenko ** #
 
 
-** Étudiant de Cégep Garneau**
+** Étudiant de Cégep Garneau **
